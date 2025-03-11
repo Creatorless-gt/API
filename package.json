@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "hono": "^4.0.0",
+    "puppeteer": "^20.0.0"
+  }
+}
